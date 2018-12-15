@@ -42,4 +42,5 @@
 
 ---
 
-### **Report: Please Download all the files and consult "Program 1(b) Search in Pac-Man (Report).pdf", which implemented in Chinese**
+### **Report: Please Download all the files and consult "Program 1(b) Search in Pac-Man (Report).pdf"
+, which implemented in Chinese**
