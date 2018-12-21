@@ -1,6 +1,6 @@
 # PACMAN_A-star-Search_Find-all-corners (Please use Python2 to execute)
 
-### **Overall: This is a project about pacman finding a way in maze (By using A Star search, BFS)**
+### **Overall: This is a project about pacman finding a way in maze (By using A-Star-Search, BFS)**
 
 ---
 
